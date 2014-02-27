@@ -1,0 +1,1 @@
+golang clone of twitter's [snowflake](https://github.com/twitter/snowflake)
